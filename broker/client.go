@@ -15,9 +15,9 @@ import (
 
 	"github.com/eapache/queue"
 
-	"github.com/fhmq/hmq/broker/lib/sessions"
-	"github.com/fhmq/hmq/broker/lib/topics"
-	"github.com/fhmq/hmq/plugins/bridge"
+	"github.com/twitchgg/hmq/broker/lib/sessions"
+	"github.com/twitchgg/hmq/broker/lib/topics"
+	"github.com/twitchgg/hmq/plugins/bridge"
 	"golang.org/x/net/websocket"
 
 	"github.com/eclipse/paho.mqtt.golang/packets"

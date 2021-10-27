@@ -1,8 +1,8 @@
 package auth
 
 import (
-	authfile "github.com/fhmq/hmq/plugins/auth/authfile"
-	"github.com/fhmq/hmq/plugins/auth/authhttp"
+	authfile "github.com/twitchgg/hmq/plugins/auth/authfile"
+	"github.com/twitchgg/hmq/plugins/auth/authhttp"
 )
 
 const (
